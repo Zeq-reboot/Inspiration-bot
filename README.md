@@ -4,7 +4,7 @@
 -Bot du serveur "L'inspiration"-
 
 
-Cahier des charges:
+##Cahier des charges:
 
 -faire en sorte qu'une personne puisse update un message "public" envoyé par le bot sur des salons particuliers si elle a le rôle adapté. (genre pour mettre à jour des listes par exemple)
 
@@ -25,14 +25,14 @@ Cahier des charges:
 -Faire en sorte qu'on puisse envoyer des messages "publics" via le bot sur certains salons et qu'une personne puisse update le message "public" envoyé par le bot sur des salons particuliers si elle a le rôle adapté. (genre pour mettre à jour des listes par exemple)
 
 
-Bonus:
+###Bonus:
 
 -Peut banir des mots (comme "flemme" par exemple). Si possibilité de spécifier à un membre?
 
 -Archive les salons inactifs depuis deux(?) mois
 
 
-Ne doit surtout pas avoir:
+###Ne doit surtout pas avoir:
 
 -Bot musique
 
