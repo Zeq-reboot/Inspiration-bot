@@ -2,7 +2,7 @@
 
 -Bot du serveur "L'inspiration"-
 
-Cahier des charges:
+Cahier des charges: \n
 -faire en sorte qu'une personne puisse update un message "public" envoyé par le bot sur des salons particuliers si elle a le rôle adapté. (genre pour mettre à jour des listes par exemple)
 -Lancer des dés
 -Envoyer des messages automatiques aux nouveaux
