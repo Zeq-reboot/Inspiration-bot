@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const Bot = new Discord.Client();
 Bot.on('message', function (message) {
-    //commande de lancer de dé avec la valeur prise en paramètre
+    //commande de lancer de dÃ© avec la valeur prise en paramÃ¨tre
     if (message.content.startsWith('/dice')) {
         let args = message.content.split(' ');
         if (args[1] === undefined || isNaN(args[1]) || parseInt(args[1])<0) message.channel.send('vous devez entrer une valeur valide');
@@ -13,4 +13,3 @@ Bot.on('message', function (message) {
         
     }  
 })
-Bot.login('NzQzMTEzOTQ4NTg4NTM5OTc0.XzP8yw.mvH-iWdvbEYKM2q5AJtKuZkz7ro');
